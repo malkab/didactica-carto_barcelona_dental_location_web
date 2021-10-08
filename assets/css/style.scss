@@ -1,0 +1,46 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h1 {
+
+  color: #f00;
+
+}
+
+.wrapper {
+
+  width: 1100px;
+
+}
+
+header {
+
+  width: 250px;
+
+}
+
+footer {
+
+  width: 250px;
+
+}
+
+section {
+
+  width: 825px;
+
+}
+
+p {
+
+  max-width: 500px;
+
+}
+
+img {
+
+  min-width: 825px;
+
+}
