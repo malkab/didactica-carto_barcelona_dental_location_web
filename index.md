@@ -4,7 +4,7 @@ This is a test.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam efficitur felis id ligula lacinia lobortis. In volutpat aliquam ligula a eleifend. Suspendisse potenti. Aliquam erat volutpat. Aliquam ac est et enim interdum suscipit. In facilisis consectetur metus a elementum. Sed suscipit magna eget lacus eleifend, id pellentesque tellus ultricies. Donec sagittis purus pretium, laoreet lacus et, pellentesque tortor. Morbi molestie magna eget purus pulvinar consequat. Ut feugiat vehicula turpis, at bibendum turpis eleifend vel. Ut nisl metus, interdum nec leo a, vestibulum ullamcorper diam. Sed consectetur, ligula nec pretium pulvinar, nunc erat congue augue, hendrerit elementum dui nisl vitae quam. Proin tincidunt gravida arcu, ac sollicitudin ipsum pretium vel. Fusce libero odio, facilisis et efficitur nec, varius non metus. Curabitur pellentesque eros et elit porttitor auctor. Mauris ullamcorper rhoncus venenatis.
 
-![Image](https://raw.githubusercontent.com/malkab/didactica-carto_barcelona_dental_location_web/develop/assets/images/a.jpg)
+![Image](/assets/images/a.jpg)
 
 Curabitur ut blandit lorem, convallis pharetra erat. Vivamus ullamcorper turpis non ex condimentum gravida. Duis ac nibh metus. Sed sit amet turpis elit. Donec ut vestibulum nisl. Vivamus pretium massa vel mi faucibus pellentesque. Nullam mi leo, aliquam et euismod ut, semper quis velit. Sed porta tortor nec lectus pellentesque, eu bibendum lectus aliquet. Praesent id imperdiet nulla. Aliquam erat volutpat. Sed ac dui ut purus faucibus lobortis. Nunc vitae dolor vel ante iaculis varius nec et lorem.
 
