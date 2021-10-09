@@ -1,4 +1,6 @@
 theme: jekyll-theme-minimal
 title: AAA
 description: JJJ
-logo: /assets/images/a.jpg
+logo: /assets/images/a.png
+show_downloads: false
+google_analytics:
